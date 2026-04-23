@@ -1,0 +1,54 @@
+tree_option_id,common_name,scientific_name,size_label,size_gallon,size_caliper_inches,size_classification,estimated_diameter_m,estimated_canopy_m,cost_usd,inventory
+american_beautyberry_3_gallon,American Beautyberry,Callicarpa americana,3-gallon,3,0.75,small,5,20,97,1729
+american_elm_15_gallon,American Elm,Ulmus americana,15-gallon,15,,large,12,113,96,1827
+american_elm_3_gallon,American Elm,Ulmus americana,3-gallon,3,0.75,large,12,113,59,1599
+american_fringe_white_3_gallon,American Fringe White,Chionanthus virginicus,3-gallon,3,0.75,small,5,20,75,1169
+american_hornbeam_3_gallon,American Hornbeam,Carpinus caroliniana,3-gallon,3,0.75,medium,8,50,66,1311
+american_plum_3_gallon,American Plum,Prunus americana,3-gallon,3,,small,5,20,65,1614
+american_sycamore_3_gallon,American Sycamore,Platanus occidentalis,3-gallon,3,0.75,large,12,113,93,1062
+american_sycamore_5_gallon,American Sycamore,Platanus occidentalis,5-gallon,5,,large,12,113,92,1836
+arrowwood_viburnum_3_gallon,Arrowwood Viburnum,Viburnum dentatum,3-gallon,3,0.75,small,5,20,68,1479
+bald_cypress_3_gallon,Bald Cypress,Taxodium distichum,3-gallon,3,0.75,large,12,113,53,1490
+black_cherry_3_gallon,Black Cherry,Prunus serotina,3-gallon,3,,large,12,113,62,1280
+bur_oak_3_gallon,Bur Oak,Quercus macrocarpa,3-gallon,3,0.75,large,12,113,62,1317
+buttonbush_3_gallon,Buttonbush,Cephalanthus occidentalis,3-gallon,3,0.75,small,5,20,89,1218
+cedar_elm_3_gallon,Cedar Elm,Ulmus crassifolia,3-gallon,3,0.75,large,12,113,64,1558
+cherrybark_oak_3_gallon,Cherrybark Oak,Quercus pagoda,3-gallon,3,0.75,large,12,113,78,1168
+chickasaw_plum_3_gallon,Chickasaw Plum,Prunus angustifolia,3-gallon,3,0.75,small,5,20,89,1478
+chinquapin_oak_3_gallon,Chinquapin Oak,Quercus muehlenbergii,3-gallon,3,0.75,large,12,113,99,1697
+drummond_red_maple_3_gallon,Drummond Red Maple,Acer rubrum,3-gallon,3,0.75,medium,8,50,67,1662
+eastern_red_cedar_3_gallon,Eastern Red Cedar,Juniperus virginiana,3-gallon,3,0.75,medium,8,50,72,1713
+eastern_redbud_3_gallon,Eastern Redbud,Cercis canadensis,3-gallon,3,0.75,medium,8,50,85,1623
+green_ash_3_gallon,Green Ash,Fraxinus pennsylvanica,3-gallon,3,0.75,large,12,113,67,1171
+loblolly_pine_3_gallon,Loblolly Pine,Pinus taeda,3-gallon,3,0.75,large,12,113,98,1594
+loblolly_pine_30_gallon,Loblolly Pine,Pinus taeda,30-gallon,30,,large,12,113,96,1270
+mayhaw_3_gallon,Mayhaw,Crataegus opaca,3-gallon,3,0.75,small,5,20,92,1010
+mexican_plum_3_gallon,Mexican Plum,Prunus mexicana,3-gallon,3,0.75,medium,8,50,99,1680
+nuttall_oak_3_gallon,Nuttall Oak,Quercus texana,3-gallon,3,0.75,large,12,113,75,3493
+overcup_oak_3_gallon,Overcup Oak,Quercus lyrata,3-gallon,3,0.75,large,12,113,88,1538
+pecan_15_gallon,Pecan,Carya illinoinensis,15-gallon,15,,large,12,113,86,1303
+pecan_3_gallon,Pecan,Carya illinoinensis,3-gallon,3,0.75,large,12,113,63,2647
+persimmon_3_gallon,Persimmon,Diospyros virginiana,3-gallon,3,,medium,8,50,71,1998
+possumhaw_3_gallon,Possumhaw,Ilex decidua,3-gallon,3,0.75,small,5,20,89,1896
+redbud_3_gallon,Redbud,Cercis canadensis,3-gallon,3,0.75,medium,8,50,85,1726
+river_birch_3_gallon,River Birch,Betula nigra,3-gallon,3,0.75,medium,8,50,85,1310
+roughleaf_dogwood_3_gallon,Roughleaf Dogwood,Cornus drummondii,3-gallon,3,0.75,small,5,20,85,1580
+rusty_blackhaw_viburnum_3_gallon,Rusty Blackhaw Viburnum,Viburnum rufidulum,3-gallon,3,0.75,small,5,20,88,1738
+shumard_oak_15_gallon,Shumard Oak,Quercus shumardii,15-gallon,15,,large,12,113,69,1850
+shumard_oak_3_gallon,Shumard Oak,Quercus shumardii,3-gallon,3,0.75,large,12,113,83,1868
+southern_live_oak_3_gallon,Southern Live Oak,Quercus virginiana,3-gallon,3,0.75,large,12,113,65,1917
+southern_live_oak_30_gallon,Southern Live Oak,Quercus virginiana,30-gallon,30,,large,12,113,83,1110
+southern_magnolia_3_gallon,Southern Magnolia,Magnolia grandiflora,3-gallon,3,0.75,large,12,113,59,1208
+swamp_chestnut_oak_3_gallon,Swamp Chestnut Oak,Quercus michauxii,3-gallon,3,0.75,large,12,113,62,1825
+swamp_chestnut_oak_30_gallon,Swamp Chestnut Oak,Quercus michauxii,30-gallon,30,,large,12,113,50,1426
+sweetbay_magnolia_3_gallon,Sweetbay Magnolia,Magnolia virginiana,3-gallon,3,0.75,medium,8,50,55,1103
+sweetgum_15_gallon,Sweetgum,Liquidambar styraciflua,15-gallon,15,,large,12,113,63,1073
+sweetgum_3_gallon,Sweetgum,Liquidambar styraciflua,3-gallon,3,0.75,large,12,113,59,1413
+water_oak_3_gallon,Water Oak,Quercus nigra,3-gallon,3,0.75,large,12,113,88,1940
+water_oak_5_gallon,Water Oak,Quercus nigra,5-gallon,5,,large,12,113,82,1914
+water_tupelo_3_gallon,Water Tupelo,Nyssa aquatica,3-gallon,3,0.75,large,12,113,79,1678
+wax_myrtle_3_gallon,Wax Myrtle,Morella cerifera,3-gallon,3,0.75,small,5,20,99,1797
+white_oak_3_gallon,White Oak,Quercus alba,3-gallon,3,0.75,large,12,113,81,1718
+white_oak_30_gallon,White Oak,Quercus alba,30-gallon,30,,large,12,113,60,1399
+willow_oak_3_gallon,Willow Oak,Quercus phellos,3-gallon,3,0.75,large,12,113,81,1040
+yaupon_3_gallon,Yaupon,Ilex vomitoria,3-gallon,3,0.75,small,5,20,66,1152
