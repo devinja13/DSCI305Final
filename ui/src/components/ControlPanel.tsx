@@ -12,7 +12,7 @@ import {
   useOptimizeStore,
 } from '../store/useOptimizeStore';
 
-const API_BASE = 'http://localhost:8000/api';
+const API_BASE = import.meta.env.VITE_API_BASE ?? '/api';
 
 const HOUSTON_BBOX = {
   west: -95.789,
@@ -459,9 +459,17 @@ const ControlPanel: React.FC = () => {
             </p>
           </div>
           <div className="space-y-2 max-h-[24rem] overflow-y-auto pr-1">
-            {filteredTreeOptions.map((option) => (
-              <TreeOptionRow key={option.tree_option_id} option={option} />
-            ))}
+            {filteredTreeOptions.length > 0 ? (
+              filteredTreeOptions.map((option) => (
+                <TreeOptionRow key={option.tree_option_id} option={option} />
+              ))
+            ) : (
+              <div className="rounded-lg border border-dashed border-slate-200 p-3 text-xs text-slate-500">
+                {treeOptions.length === 0
+                  ? 'No tree options loaded yet. Make sure the FastAPI server is running, then refresh the page.'
+                  : 'No tree options match your search.'}
+              </div>
+            )}
           </div>
         </div>
 

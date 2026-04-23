@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { useOptimizeStore } from '../store/useOptimizeStore';
 
-const API_BASE = 'http://localhost:8000/api';
+const API_BASE = import.meta.env.VITE_API_BASE ?? '/api';
 const POLL_INTERVAL_MS = 3000;
 
 export function useJobPoller() {
