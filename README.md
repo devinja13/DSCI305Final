@@ -5,7 +5,7 @@ DLAB Forestry is a two-part web application for exploring urban tree-planting sc
 - A `FastAPI` backend that loads raster data, tree inventory metadata, and runs a Gurobi optimization model
 - A `Vite + React + TypeScript` frontend that lets users choose tree types, budget, cell size, and constrained planting regions
 
-The repo has been cleaned down to the files needed to run the website and the current optimization model.
+
 
 ## Repo Structure
 
